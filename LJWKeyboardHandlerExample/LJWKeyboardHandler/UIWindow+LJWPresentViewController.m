@@ -27,6 +27,11 @@
         return [self getPresentViewController:[(UITabBarController *)currentViewController selectedViewController]];
     }
     
+    if (currentViewController.childViewControllers.count) {
+        UIViewController *topChildController = currentViewController.childViewControllers[0];
+        return [self getPresentViewController:topChildController];
+    }
+    
     if ([currentViewController presentedViewController]) {
         return [self getPresentViewController:[currentViewController presentedViewController]];
     }
