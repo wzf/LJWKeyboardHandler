@@ -12,9 +12,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'LJWKeyboardHandlerExample/LJWKeyboardHandler/**/*'
-  s.resource_bundles = {
-    'LJWKeyboardHandler' => ['LJWKeyboardHandlerExample/LJWKeyboardHandler/Resources.bundle']
-  }
+  s.resources    = 'LJWKeyboardHandlerExample/LJWKeyboardHandler/Resources.bundle'
 
   s.frameworks   = 'Foundation', 'UIKit'
 end

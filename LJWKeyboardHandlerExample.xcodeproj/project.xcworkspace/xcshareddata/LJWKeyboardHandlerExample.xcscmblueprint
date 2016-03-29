@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0D59F98F6947C091DA445311DEAE844C79C8B0DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9E1ECC80773D1F4F22D03CB4DEA298B3CB57FAF5" : 0,
+    "0D59F98F6947C091DA445311DEAE844C79C8B0DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "49E320F1-6540-475B-84CC-823908DE47BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9E1ECC80773D1F4F22D03CB4DEA298B3CB57FAF5" : "",
+    "0D59F98F6947C091DA445311DEAE844C79C8B0DA" : "LJWKeyboardHandlerExample"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LJWKeyboardHandlerExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LJWKeyboardHandlerExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chinaljw\/LJWKeyboardHandler.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D59F98F6947C091DA445311DEAE844C79C8B0DA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wzf\/SVProgressHUD-FE.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E1ECC80773D1F4F22D03CB4DEA298B3CB57FAF5"
+    }
+  ]
+}
